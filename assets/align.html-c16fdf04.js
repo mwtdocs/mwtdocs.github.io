@@ -1,4 +1,4 @@
-import{_ as d}from"./plugin-vue_export-helper-c27b6911.js";import{r as l,o as a,c as r,a as e,b as n,d as t,e as i}from"./app-87c32e9f.js";const c={},v=i(`<h2 id="语法" tabindex="-1"><a class="header-anchor" href="#语法" aria-hidden="true">#</a> 语法</h2><div class="language-markdown line-numbers-mode" data-ext="md"><pre class="language-markdown"><code>::: left
+import{_ as d}from"./plugin-vue_export-helper-c27b6911.js";import{r as l,o as a,c as r,a as e,b as n,d as t,e as i}from"./app-58a27e9c.js";const c={},v=i(`<h2 id="语法" tabindex="-1"><a class="header-anchor" href="#语法" aria-hidden="true">#</a> 语法</h2><div class="language-markdown line-numbers-mode" data-ext="md"><pre class="language-markdown"><code>::: left
 左对齐的内容
 :::
 

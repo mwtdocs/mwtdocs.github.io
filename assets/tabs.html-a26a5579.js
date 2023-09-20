@@ -1,4 +1,4 @@
-import{_ as v}from"./plugin-vue_export-helper-c27b6911.js";import{r as c,o as r,c as u,a as e,d,w as n,e as t,b as s}from"./app-87c32e9f.js";const m={},b=t(`<h2 id="用法" tabindex="-1"><a class="header-anchor" href="#用法" aria-hidden="true">#</a> 用法</h2><p>你需要将选项卡包装在 <code>tabs</code> 容器中。</p><p>你可以在 <code>tabs</code> 容器中添加一个 id 后缀，该后缀将用作选项卡 id。 所有具有相同 id 的选项卡将共享相同的切换事件。</p><div class="language-markdown line-numbers-mode" data-ext="md"><pre class="language-markdown"><code>::: tabs#fruit
+import{_ as v}from"./plugin-vue_export-helper-c27b6911.js";import{r as c,o as r,c as u,a as e,d,w as n,e as t,b as s}from"./app-58a27e9c.js";const m={},b=t(`<h2 id="用法" tabindex="-1"><a class="header-anchor" href="#用法" aria-hidden="true">#</a> 用法</h2><p>你需要将选项卡包装在 <code>tabs</code> 容器中。</p><p>你可以在 <code>tabs</code> 容器中添加一个 id 后缀，该后缀将用作选项卡 id。 所有具有相同 id 的选项卡将共享相同的切换事件。</p><div class="language-markdown line-numbers-mode" data-ext="md"><pre class="language-markdown"><code>::: tabs#fruit
 
 <span class="token comment">&lt;!-- 这里，fruit 将用作 id，它是可选的 --&gt;</span>
 
