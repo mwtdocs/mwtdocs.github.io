@@ -1,4 +1,4 @@
-import{_ as l}from"./plugin-vue_export-helper-c27b6911.js";import{r as a,o,c as t,d as n,a as d,b as s,e as i}from"./app-fa936ca3.js";const r={},v=i(`<h2 id="格式" tabindex="-1"><a class="header-anchor" href="#格式" aria-hidden="true">#</a> 格式</h2><div class="language-markdown line-numbers-mode" data-ext="md"><pre class="language-markdown"><code>::: chart 标题
+import{_ as l}from"./plugin-vue_export-helper-c27b6911.js";import{r as a,o,c as t,d as n,a as d,b as s,e as i}from"./app-6c2a8f53.js";const r={},v=i(`<h2 id="格式" tabindex="-1"><a class="header-anchor" href="#格式" aria-hidden="true">#</a> 格式</h2><div class="language-markdown line-numbers-mode" data-ext="md"><pre class="language-markdown"><code>::: chart 标题
 
 <span class="token code"><span class="token punctuation">\`\`\`</span><span class="token code-language">json</span>
 <span class="token code-block language-json">{
